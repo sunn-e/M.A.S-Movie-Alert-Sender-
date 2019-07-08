@@ -1,5 +1,12 @@
-# M.A.S-Movie-Alert-Sender-
+
+
+# M.A.S-Movie-Alert-Sender
+
+---
+
 A setup to send you an alert when upcoming movie's tickets are available on any booking site.
+
+![Activity](https://img.shields.io/github/last-commit/sunn-e/M.A.S-Movie-Alert-Sender-.svg?style=for-the-badge)
 
 ## How to use
 
